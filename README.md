@@ -1,7 +1,7 @@
 ## Hello World, I'm Lisa 👋
 
 <!--
-**ls-schwnstr/ls-schwnstr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am a Data Scientist based in Munich, Germany**
 
 Here are some ideas to get you started:
 

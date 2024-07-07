@@ -1,6 +1,5 @@
 ## Hello World, I'm Lisa 👋
 
-<!--
 **I am a Data Scientist based in Munich, Germany**
 
 Here are some ideas to get you started:
